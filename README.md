@@ -23,6 +23,12 @@ Haz clic izquierdo en las celdas para descubrirlas y evita las minas. Utiliza cl
 - Marca las minas con clic derecho utilizando una bandera.
 - Verificación automática de victoria o derrota después de cada movimiento.
 
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
+
 ## Personalización
 
 Siéntete libre de modificar y expandir el código según tus preferencias. Puedes ajustar la apariencia, la disposición de los elementos y agregar características adicionales para adaptar el juego a tus necesidades.
